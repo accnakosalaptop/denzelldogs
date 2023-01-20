@@ -1,0 +1,35 @@
+html {
+    font-family: 'Sofia Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 10px;
+    background-color: #ffe6cc;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #663300;
+    text-shadow: 4px 3px 4px black;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fff2e6;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #663300;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 276px;
+}
